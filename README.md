@@ -1,2 +1,2 @@
 # Snake
-Ein kleines Sanke Game in Python, welcher mit der GUI-Bibliothek Tkinter realisiert wurde. 
+Ein kleines Snake Game in Python, welcher mit der GUI-Bibliothek Tkinter realisiert wurde. 
